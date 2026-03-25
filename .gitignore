@@ -1,0 +1,18 @@
+# PyCharm/IntelliJ
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+
+# Mac
+.DS_Store
+```
